@@ -1,0 +1,5 @@
+---
+- src: https://github.com/sangitaccount/ansible.git
+  scm: git
+  path: tests/roles
+  version: master 
